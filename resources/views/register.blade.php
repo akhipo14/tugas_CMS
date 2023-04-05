@@ -43,7 +43,7 @@
                         @enderror
                         <input type="password" name="password" placeholder="password" class="@error('password') is-invalid @enderror">
                         
-                        <button type="submit">Sign In</button>
+                        <button type="submit">Sign Up</button>
                         
                         <div class="bantuan">
                             <p>Already Registered ? <a href="/login">Sign In</a> </p>
